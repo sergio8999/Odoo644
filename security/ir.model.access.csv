@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo644_pelicula_usuario,odoo644.pelicula.usuario,model_odoo644_pelicula,odoo644.group_odoo644_usuario,1,0,0,0
+access_odoo644_pelicula_administrador,odoo644.pelicula.administrador,model_odoo644_pelicula,odoo644.group_odoo644_administrador,1,1,1,1_
